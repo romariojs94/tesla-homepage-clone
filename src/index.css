@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-width: 455px) {
+    nav {
+        justify-content: center !important;
+    }
+}
